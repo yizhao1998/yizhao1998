@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [ByteDance](https://bytedance.com/en/) as a Backend RD.
-- 🌱 I’m currently learning  [Apache ShardingSphere](https://shardingsphere.apache.org/).
+- 🔭 I’m currently working in [ByteDance](https://bytedance.com/en/) as a Backend RD.
+- 🌱 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/).
 - 📫 How to reach me: [Home Page](https://scottyi.club), [Email](mailto:joy11612917@gmail.com).
 
 
