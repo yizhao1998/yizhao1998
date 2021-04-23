@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [ByteDance](https://bytedance.com/en/) as a Backend RD.
 - 🌱 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/), [Apollo](https://github.com/ctripcorp/apollo)
-- 📫 How to reach me: [Home Page](https://scottyi.club), [Email](mailto:joy11612917@gmail.com).
+- 📫 How to reach me: [Home Page](https://yizhao.tech), [Email](mailto:joy11612917@gmail.com).
 
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
