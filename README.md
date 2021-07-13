@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working in [ByteDance](https://bytedance.com/en/) as a Backend RD.
+- 📫 I am an incoming master of computer science student of Rice University.
+- 🔭 I worked in [ByteDance](https://bytedance.com/en/) as a Backend RD in 2020-2021.
 - 🌱 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/), [Apollo](https://github.com/ctripcorp/apollo)
 - 📫 How to reach me: [Home Page](https://yizhao.tech), [Email](mailto:joy11612917@gmail.com).
 
