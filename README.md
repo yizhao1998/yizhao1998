@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://python.org/)
 [![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 
-[![react](https://img.shields.io/badge/React.js-fff?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![react](https://img.shields.io/badge/React.js-20232a?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Vue.js-fff?style=flat-square&logo=vue.js&logoColor=42b983)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
