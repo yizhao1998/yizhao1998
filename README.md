@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+[C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 <img src="https://img.shields.io/badge/-Javascript-F0DA50?logo=Javascript&logoColor=323230" />
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=Typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white" />
