@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 📫 I currently a Msc.in Computer Science student at Rice University, Houston, TX. 
-- 🌟 I will join Tableau, Salesforce as a Software Development Engineer Intern at Palo Alto office in 2022 summer.
+- 📫 I currently a Msc.in Computer Science student at [Rice University](https://www.rice.edu/), Houston, TX. 
+- 🌟 I will join [Tableau, Salesforce](https://www.tableau.com/) as a Software Development Engineer Intern at Palo Alto office in 2022 summer.
 - 🔭 I worked in [ByteDance](https://bytedance.com/en/) as a Software Development Engineer in 2020-2021.
-- 🌱 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/), [Apollo](https://github.com/ctripcorp/apollo)
+- 🌱 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/), [Apache Echarts](https://echarts.apache.org/en/index.html)
 - 📫 How to reach me: [Home Page](https://yizhao.tech), [Email](mailto:joy11612917@gmail.com).
 
 
