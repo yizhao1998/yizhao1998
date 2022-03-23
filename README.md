@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 📫 I currently a Msc.in Computer Science student at [Rice University](https://www.rice.edu/), Houston, TX. 
+- 📫 I currently a Msc.in Computer Science student at [Rice University](https://www.rice.edu/), Houston, TX. I will join Tableau, Salesforce as a Software Engineer intern in Analytics and Data Modeling Org in 2022 summer. 
 - 🔭 I worked in [ByteDance](https://bytedance.com/en/) as a Software Development Engineer in 2020-2021.
-- 🌱 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/), [Apache Echarts](https://echarts.apache.org/en/index.html)
-- 📫 How to reach me: [Home Page](https://yizhao.tech), [Email](mailto:joy11612917@gmail.com).
-
+- 🌟 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/), [Apache Echarts](https://echarts.apache.org/en/index.html)
+- 📞 How to reach me: [Home Page](https://yizhao.tech), [Email](mailto:joy11612917@gmail.com).
+- 🎯 My major working and research interests include (1). data intensive application design and development, (2). data visualization.
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
