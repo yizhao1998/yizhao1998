@@ -4,9 +4,7 @@
 - 🔭 I worked in [ByteDance](https://bytedance.com/en/) as a Software Development Engineer in 2020-2021.
 - 🌟 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/), [Apache Echarts](https://echarts.apache.org/en/index.html)
 - 📞 How to reach me: [Home Page](https://yizhao.tech), [Email](mailto:joy11612917@gmail.com).
-- 🎯 My major working and research interests include 
-  1. data intensive application design and development
-  2. data visualization.
+- 🎯 My major working and research interests include *data intensive application design and development* and *data visualization*.
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
