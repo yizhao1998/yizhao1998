@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 📫 I currently a Msc.in Computer Science student at [Rice University](https://www.rice.edu/), Houston, TX. I will join [Tableau, Salesforce](https://www.tableau.com/) as a Software Engineer intern in Analytics and Data Modeling Org in 2022 summer. 
+- 📫 I am currently a Msc.in Computer Science student at [Rice University](https://www.rice.edu/), Houston, TX.
+- 🔭 I am currently a Software Engineer intern in Analytics and Data Modeling Org at [Tableau, Salesforce](https://www.tableau.com/). 
 - 🔭 I worked in [ByteDance](https://bytedance.com/en/) as a Software Development Engineer in 2020-2021.
 - 🌟 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/), [Apache Echarts](https://echarts.apache.org/en/index.html)
 - 📞 How to reach me: [Home Page](https://yizhao.tech), [Email](mailto:joy11612917@gmail.com).
