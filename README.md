@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 📫 I am currently a Msc.in Computer Science student at [Rice University](https://www.rice.edu/), Houston, TX.
-- 🔭 I am an incoming Software Engineer at [Tableau Software, a Salesforce company](https://www.tableau.com/). 
+- 🔭 I am an Software Engineer at [Tableau Software, a Salesforce company](https://www.tableau.com/). 
 - 💼 I worked in [ByteDance](https://bytedance.com/en/) as a Software Engineer in 2020-2021.
+- 📫 I was a Msc.in Computer Science student at [Rice University](https://www.rice.edu/), Houston, TX.
 - 🌟 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/), [Apache Echarts](https://echarts.apache.org/en/index.html)
 - 📞 How to reach me: [Home Page](https://yizhao.tech), [Email](mailto:joy11612917@gmail.com).
 - 🎯 My major working and research interests include *data intensive application design and development* and *data visualization*.
