@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am an Software Engineer at [Tableau Software, a Salesforce company](https://www.tableau.com/). 
+- 🔭 I am an Senior Software Engineer at [Tableau Software, a Salesforce company](https://www.tableau.com/). 
 - 💼 I worked at [ByteDance](https://bytedance.com/en/) as a Software Engineer in 2020-2021.
 - 📫 I was a Msc.in Computer Science student at [Rice University](https://www.rice.edu/), Houston, TX.
 - 🌟 I’m currently learning [Apache ShardingSphere](https://shardingsphere.apache.org/), [Apache Echarts](https://echarts.apache.org/en/index.html)
