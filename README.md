@@ -3,7 +3,7 @@
 - 🔭 I am an Senior Software Engineer at [Tableau Software, a Salesforce company](https://www.tableau.com/). 
 - 💼 I worked at [ByteDance](https://bytedance.com/en/) as a Software Engineer in 2020-2021.
 - 📫 I was a Msc.in Computer Science student at [Rice University](https://www.rice.edu/), Houston, TX.
-- 🌟 I’m a contributor of [postman-code-generators](https://github.com/postmanlabs/postman-code-generators), [AIGCJson](https://github.com/AIGMix/AIGCJson) and [cloudberry](https://github.com/ISG-ICS/cloudberry).
+- 🌟 I’m a contributor of [resilience4j](https://github.com/resilience4j/resilience4j), [postman-code-generators](https://github.com/postmanlabs/postman-code-generators), [AIGCJson](https://github.com/AIGMix/AIGCJson) and [cloudberry](https://github.com/ISG-ICS/cloudberry).
 - 📞 How to reach me: [Home Page](https://yizhao.tech), [Email](mailto:joy11612917@gmail.com).
 - 🎯 My major working and research interests include *distributed microservice & data intensive application design and development* and *data visualization*.
 
