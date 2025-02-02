@@ -5,7 +5,7 @@
 - 📫 I was a Msc.in Computer Science student at [Rice University](https://www.rice.edu/), Houston, TX.
 - 🌟 I’m a contributor of [Nimbus-JOSE-JWT](https://bitbucket.org/connect2id/nimbus-jose-jwt), [resilience4j](https://github.com/resilience4j/resilience4j), [postman-code-generators](https://github.com/postmanlabs/postman-code-generators), [AIGCJson](https://github.com/AIGMix/AIGCJson) and [cloudberry](https://github.com/ISG-ICS/cloudberry).
 - 📞 How to reach me: [Home Page](https://yizhao.tech), [Email](mailto:joy11612917@gmail.com).
-- 🎯 My major working and research interests include *distributed microservice & data intensive application design and development* and *data visualization*.
+- 🎯 My major working and research interests include *distributed microservice* and *data intensive application design & development* and *data visualization*.
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
